@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Ahsana Habib",
+    "review": "'Amazing shop. Provides all kinds of good stuffs. Happy buying from them'",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Jamiul Bari",
+    "review": "'Great shop. Brought a drum from them and its wonderful'",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Shadab Iqbal",
+    "review": "'They have all kinds of neccessary stuffs. Glad to find them'",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Zinia Nawrin",
+    "review": "'Their product and services both are good. Recommended'",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Shakil Ahmed",
+    "review": "'Their products are great. Loved them'",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Tanjim Reza",
+    "review": "'Good to know about them. Highly recommended.'",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60"
+  }
+]

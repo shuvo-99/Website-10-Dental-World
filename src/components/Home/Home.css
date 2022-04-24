@@ -1,0 +1,15 @@
+.homereviewContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.reviewlink {
+  color: crimson;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+  margin-left: 40%;
+}
